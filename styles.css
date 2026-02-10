@@ -1,0 +1,31 @@
+body {
+    font-family: 'Inter', sans-serif;
+    color: #334155;
+}
+
+.navbar {
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.table {
+    font-size: 0.9rem;
+}
+
+.table th {
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+}
+
+.badge-direction {
+    padding: 0.5em 0.8em;
+    border-radius: 6px;
+    background-color: #e2e8f0;
+    color: #475569;
+    font-weight: 500;
+}
+
+.btn-action {
+    padding: 0.25rem 0.5rem;
+    font-size: 0.8rem;
+}
